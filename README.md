@@ -24,15 +24,27 @@ backend/
 
 
 frontend/
+
 ├── src/
+
 │   ├── api/
+
 │   │   └── apiService.js
+
 │   ├── components/
+
 │   │   ├── Login.js
+
 │   │   ├── Signup.js
+
 │   │   ├── ProductList.js
+
 │   │   ├── AddEditProduct.js
+
 │   │   ├── Navbar.js
+
 │   └── App.js
+
 │   └── index.js
+
 ├── .env
