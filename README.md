@@ -1,13 +1,23 @@
 backend/
+
 ├── .env
+
 ├── server.js
+
 ├── models/
+
 │   ├── User.js
+
 │   ├── Product.js
+
 ├── routes/
+
 │   ├── auth.js
+
 │   ├── product.js
+
 ├── middleware/
+
 │   └── authMiddleware.js
 
 
