@@ -1,0 +1,48 @@
+
+body {
+  background-color: #f8f9fa;
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #343a40;
+  padding: 1rem;
+}
+
+.navbar a, .navbar button {
+  color: white;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.navbar a:hover, .navbar button:hover {
+  color: #ffc107;
+  text-decoration: none;
+}
+
+.container {
+  margin-top: 50px;
+  max-width: 600px;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+  background-color: #343a40;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #495057;
+}
+
+.error {
+  color: red;
+  font-size: 0.9rem;
+  margin-top: 10px;
+}
